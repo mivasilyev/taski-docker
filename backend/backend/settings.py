@@ -1,3 +1,5 @@
+"""Настройки бэкенда."""
+
 import os
 from pathlib import Path
 
